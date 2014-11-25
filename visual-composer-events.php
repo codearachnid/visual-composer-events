@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Visual Composer: Tribe Events
+Plugin Name: Visual Composer: Events
 Plugin URI: 
-Description: Integrate Tri.be's The Event Calendar with Visual Composer.
+Description: Integrate events with Visual Composer. Supports Tri.be's The Event Calendar, Eventon, and more.
 Version: 1.0
 Author: codearachnid
 Author URI: 
